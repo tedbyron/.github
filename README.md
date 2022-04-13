@@ -22,6 +22,4 @@
     "--"           "--"                   /=====\
 ```
 
-<div style="pointer-events:none">
-   <img src="./github-metrics.svg" />
-</div>
+[![Most used languages](./github-metrics.svg)](#)
