@@ -1,4 +1,4 @@
-#+begin_src
+```
    o                   o
     \               __/
      \___          /
@@ -20,6 +20,8 @@
 |                (|) (/)   |               \===/
 \_________________________/                /===\
     "--"           "--"                   /=====\
-#+end_src
+```
 
-[[#][./github-metrics.svg]]
+<div style="pointer-events:none">
+   <img src="./github-metrics.svg" />
+</div>
